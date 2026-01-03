@@ -53,7 +53,7 @@ word-similarity-api/
 
 ```
 git clone https://github.com/your-username/word-similarity-api.git
-cd word-similarity
+cd Word_Similarity_API
 ```
 
 ### 2️⃣ Create & Activate Virtual Environment
